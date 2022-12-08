@@ -1,0 +1,12 @@
+.dark{
+    background-color: black;
+    height: 300px;
+    border-bottom: 30px solid white;
+}
+.light{
+    background-color: red;
+    height: 300px;
+    border-right: 10px solid white;
+    border-left: 10px solid white;
+    border-bottom: 30px solid white;
+}
